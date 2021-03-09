@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BootcampPics</string>
+    <string name="selected_image">Selected image from user</string>
+    <string name="image_selected">Selecione uma imagem</string>
 </resources>
